@@ -1,0 +1,159 @@
+.intro {
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 4px gray, 0 0 0.5em gray;
+  background-image: url("sunset.png");
+  Font-size: 28px;
+  Line-height: 20px;
+}
+
+#overflow {
+  overflow: scroll;
+}
+
+.pictures {
+  border-radius: 50%;
+  box-shadow: 5px 5px 40px white, 0 0 0.2em white;
+  Width: 175px;
+  Height: 175px;
+  display: inline-block;  
+  margin: 0 15px; 
+}
+
+.picture-parent {
+  text-align: center; 
+  Display: inline;
+}
+
+.letter {
+  Width: 100%;
+  Text-align: center;
+  Font-size: 28px;
+  Text-shadow: 1px 1px 2px grey;
+}
+
+.center {
+  margin: auto;
+  Width: 75%;
+  padding: 16px;
+}
+
+.video-parent-parent {
+  text-align: center;
+  Width: 60%;
+  Margin: auto;
+}
+
+.video-parent {
+  border-style: solid;
+  border-width: 3px; 
+  Width: 300px;
+  Height: 240px;
+  Margin: auto;
+  text-align: center;
+  Background-color: lavender;
+}
+
+.video {
+  Width: 300px;
+  Height: 240px;
+}
+
+#pic {
+  Display: inline-block;
+}
+
+#miranda_intro {
+  Height: 330px;
+  Width: 300px;
+  box-shadow: 10px 10px 80px white, 0 0 20em white;
+  Border-style: solid;
+  Border-color: transparent;
+  Border-width: 8px;
+}
+
+.video-parent-parent2 {
+  text-align: center;
+  Width: 60%;
+  Margin: auto;
+}
+
+.video-parent2 {
+  Width: 200px;
+  Height: 240px;
+  Margin: auto;
+  text-align: center;
+}
+
+.video2 {
+  Width: 200px;
+  Height: 240px;
+}
+
+.background {
+  background-image: url("confetti.jpeg");
+}
+
+.video-parent-parent3 {
+  text-align: center;
+  Width: 60%;
+  Margin: auto;
+}
+
+.video-parent3 {
+  Width: 310px;
+  Height: 165px;
+  Margin: auto;
+  text-align: center;
+}
+
+.video3 {
+  Width: 310px;
+  Height: 165px;
+}
+
+.sky {
+  background-image: url("sky.jpg");
+}
+
+.letter2 {
+  Width: 100%;
+  Text-align: center;
+  Font-size: 28px;
+  Text-shadow: 2px 2px 4px white;
+}
+
+.small-pic1 {
+  Width: 200px;
+  Height: 200px;
+  box-shadow: 2px 2px 4px gray, 0 0 0.5em gray;;
+}
+
+.small-pic2 {
+  Width: 260px;
+  Height: 200px;
+  Margin-left: 15px;
+  box-shadow: 2px 2px 4px gray, 0 0 0.5em gray;;
+}
+
+.middle {
+  Text-align: center;
+}
+
+.video-parent-parent4 {
+  text-align: center;
+  Width: 60%;
+  Margin: auto;
+}
+
+.video-parent4 {
+  Width: 200px;
+  Height: 240px;
+  Margin: auto;
+  text-align: center;
+}
+
+.video4 {
+  Width: 200px;
+  Height: 240px;
+}
